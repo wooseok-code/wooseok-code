@@ -30,33 +30,53 @@
 
 　  
 ## ✨ Projects
- #### 1. 지뢰찾기
-> &nbsp;&nbsp;&nbsp;설 명 : Windows 지뢰찾기 클론 코딩   
+ #### 1. 태양광 추적 시스템
+> &nbsp;&nbsp;&nbsp;설 명 : 태양광 추적 시스템   
 > &nbsp;&nbsp;&nbsp;기 간 : 2023. 12. 25 ~ 2023. 12. 29  
-> &nbsp;&nbsp;&nbsp;사용기술 : C#, SQL   
+> &nbsp;&nbsp;&nbsp;사용기술 : Arduino UNO, C   
 >
 ><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 
 
- #### 2. 초음파 센서를 이용한 자율 주행 자동차
-> &nbsp;&nbsp;&nbsp;설 명 : ADAS 자율주행 SW RC카 설계   
+
+ #### 2. Shopping 중독
+> &nbsp;&nbsp;&nbsp;설 명 : Shopping 품목 카테고리 자동 분류 시스템   
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
-> &nbsp;&nbsp;&nbsp;사용기술 : C, RTOS, STM32, UltraSonic   
+> &nbsp;&nbsp;&nbsp;사용기술 : Python, Selenium   
 >
 ><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >
 
- #### 3. cp & mv
+
+
+ #### 3. Caffeine
+> &nbsp;&nbsp;&nbsp;설 명 : 카페 추천 프로그램   
+> &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
+> &nbsp;&nbsp;&nbsp;사용기술 : Python, Selenium,    
+>
+><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
+
+
+ #### 4. 초음파 센서를 이용한 자율 주행 자동차
 > &nbsp;&nbsp;&nbsp;설 명 : ADAS 자율주행 SW RC카 설계   
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
-> &nbsp;&nbsp;&nbsp;사용기술 : Python, OpenVINO, STM32, UltraSonic   
+> &nbsp;&nbsp;&nbsp;사용기술 : C, RTOS, STM32, UltraSonic, MotorDriver  
+>
+><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
+
+ #### 5. cp & mv
+> &nbsp;&nbsp;&nbsp;설 명 : Pose-Estimation을 통한 춤, 동작 검증 프로그램
+> &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
+> &nbsp;&nbsp;&nbsp;사용기술 : Python, OpenVINO   
 >
 ><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >
 
 ## 🎞 Side Project  
-> #### 1. 실종아동 성인 얼굴인식 모델 설계 (진행중)  
-> &nbsp;&nbsp;&nbsp;설 명 : 생성 모델을 이용하여 실종 아동의 성인 얼굴을 예측하는 모델 설계 예정 :  
+> #### 1. 
+> &nbsp;&nbsp;&nbsp;설 명 : 
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 02 ~ (지연)    
 > &nbsp;&nbsp;&nbsp;사용기술 : GAN, Python  
 >  
