@@ -46,7 +46,13 @@
 ><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >
 
-
+ #### 3. cp & mv
+> &nbsp;&nbsp;&nbsp;설 명 : ADAS 자율주행 SW RC카 설계   
+> &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
+> &nbsp;&nbsp;&nbsp;사용기술 : Python, OpenVINO, STM32, UltraSonic   
+>
+><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
 
 ## 🎞 Side Project  
 > #### 1. 실종아동 성인 얼굴인식 모델 설계 (진행중)  
@@ -64,10 +70,10 @@
 > &nbsp;&nbsp;&nbsp;기 간 :  
 > &nbsp;&nbsp;&nbsp;사용기술 : Python  
 >   
-> <a href="https://github.com/>![a](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)</a>  
+<!--> <a href="https://github.com/>![a](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)</a>  -->
 >  
 
 
 　
 ## 📞 Contact  
-#### 📧 Email :
+#### 📧 Email : wooseokk89@gmail.com
